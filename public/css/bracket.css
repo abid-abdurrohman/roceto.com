@@ -1,0 +1,41 @@
+.tree-child{
+
+position: relative;
+  top: 50%;
+  	-webkit-transform: translateY(50%);
+  	-ms-transform: translateY(50%);
+  	transform: translateY(50%);
+
+
+}
+.relative{
+position:relative;
+}
+.auto-overflow{overflow:auto;}
+.panel{
+margin:10px 0;
+
+}
+
+.match-container{ width:700px!important;
+
+
+}
+
+
+
+ }
+
+.no-padding{
+padding:0!important;
+}
+
+.bracketline1{
+	border-top: 2px solid #090; border-right: 2px solid #090; width:80%; height:25%; float: left; position:absolute; top:25%;
+}
+.bracketline2{
+	border-bottom: 2px solid #f00; border-right: 2px solid #f00; width:80%; height:25%; float: left; position:absolute; top:50%;
+}
+.bracketline3{
+	border-top: 2px solid #090; width: 20%; margin-left: 80%; float: right; position:absolute;
+}
